@@ -1,0 +1,46 @@
+
+/* div{
+    background-color: red;
+    margin-top: 40px;
+    display: inline;
+
+}
+span{
+    background-color: green;
+    display: block;
+    margin-top: 50px;
+
+}
+h1{
+    background-color: pink;
+
+}
+a{
+    background-color: red;
+} */
+ h1{
+    background-color: rgb(166, 23, 198);
+    display: inline;
+    margin: 20px;
+ }
+ .re{
+background-color: blueviolet;
+font-size: 40px;
+ }
+ .f{
+    background-color: rgb(111, 5, 150);
+    padding-bottom: 40px;
+ }
+ .r{
+    padding: 10px;
+    font-size: 30px;
+    background-color: rgb(225, 76, 230);
+ }
+ .y{
+    padding: 5px;
+ }
+ p{
+    background-color: blueviolet;
+    display: block-inline;
+    font-size: 40px;
+ }
